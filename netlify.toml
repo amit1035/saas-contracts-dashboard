@@ -1,4 +1,4 @@
-echo '[[redirects]]
+[[redirects]]
   from = "/*"
   to = "/index.html"
-  status = 200' > netlify.toml
+  status = 200
