@@ -30,5 +30,5 @@ A modern, responsive SaaS contracts management dashboard built with React and Ta
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/saas-contracts-dashboard.git
+   git clone https://github.com/amit1035/saas-contracts-dashboard.git
    cd saas-contracts-dashboard
