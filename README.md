@@ -17,7 +17,7 @@ A modern, responsive SaaS contracts management dashboard built with React and Ta
 - **Styling**: Tailwind CSS
 - **State Management**: React Context API
 - **Routing**: React Router v6
-- **Deployment**: Vercel
+- **Deployment**: Netlify
 
 ## Setup Instructions
 
